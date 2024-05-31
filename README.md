@@ -6,15 +6,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayathri-0112&label=Profile%20views&color=0e75b6&style=flat" alt="gayathri-0112" /> </p>
 
 
-- 🔭 I’m currently working on **AI Based Shopping Website With Virtual Try-On System**
+- 🔭 I’m currently working on **Food Delivery Web App Using Figma**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **React JS & UI/UX Designing using Figma**
 
-- 💬 Ask me about **Front-End-Web-Development , Android-Development**
+- 💬 Ask me about **Front-End-Web-Development , Responsive Web Designing**
 
 - 📫 How to reach me **gayathrimenon0112@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13qoogSy4BGkprE8GJcZsMXhrkvoxNaUI/view?usp=drivesdk](https://drive.google.com/file/d/13qoogSy4BGkprE8GJcZsMXhrkvoxNaUI/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1J5atYkHIvOoCS_kNLl2vhuItHLonwOfE/view?usp=drive_link](https://drive.google.com/file/d/1J5atYkHIvOoCS_kNLl2vhuItHLonwOfE/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
