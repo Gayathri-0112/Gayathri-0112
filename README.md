@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **gayathrimenon0112@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1J5atYkHIvOoCS_kNLl2vhuItHLonwOfE/view?usp=drive_link](https://drive.google.com/file/d/1J5atYkHIvOoCS_kNLl2vhuItHLonwOfE/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hhMJjwZSFaL2OH1OFAZQt2e9nS2uyCJK/view?usp=sharing](https://drive.google.com/file/d/1hhMJjwZSFaL2OH1OFAZQt2e9nS2uyCJK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
