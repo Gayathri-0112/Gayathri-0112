@@ -1,20 +1,20 @@
 [![MasterHead](https://www.paliscope.com/wp-content/uploads/2018/04/Gif-animation-hello.gif)](https://gayayhri-0112.io)
 <h1 align="center">Hi 👋, I'm Gayathri R Menon</h1>
-<h3 align="center">A Passionate & Enthusiastic Frontend Developer From India...!</h3>
+<h3 align="center">A Passionate & Enthusiastic Techie From India...!</h3>
 <image align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*yBvA5CnEX3Sd4aod.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayathri-0112&label=Profile%20views&color=0e75b6&style=flat" alt="gayathri-0112" /> </p>
 
 
-- 🔭 I’m currently working on **Food Delivery Web App Using Figma**
+- 🔭 I’m currently working on **Data Analytics**
 
-- 🌱 I’m currently learning **React JS & UI/UX Designing using Figma**
+- 🌱 I’m currently learning **Power BI, Tableau, SQL, and Advanced Excel**
 
-- 💬 Ask me about **Front-End-Web-Development , Responsive Web Designing**
+- 💬 Ask me about **Data Analytics, Front-End-Web-Development , Responsive Web Designing, Product Analysis**
 
 - 📫 How to reach me **gayathrimenon0112@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hhMJjwZSFaL2OH1OFAZQt2e9nS2uyCJK/view?usp=sharing](https://drive.google.com/file/d/1hhMJjwZSFaL2OH1OFAZQt2e9nS2uyCJK/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rwF-CCGDDdxh5xR2YsZRp4Bk7lBM9uez/view?usp=sharing](https://drive.google.com/file/d/1rwF-CCGDDdxh5xR2YsZRp4Bk7lBM9uez/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
